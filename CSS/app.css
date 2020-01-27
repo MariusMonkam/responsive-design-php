@@ -1,0 +1,38 @@
+
+body{
+  padding-top: 56px;
+}
+#HomeSection{
+  background: #e74c3c;
+  color:white;
+  padding: 0;
+
+}
+#JumbotronImage{
+  width: 100%;
+}
+.JumbotronTextOnImages{
+  position: absolute;
+  width: 100%;
+  
+}
+#JumbotronHeading{
+  margin-top: 20%;
+}
+.teamMemberContainer{
+  padding: 5px;
+}
+.teamMemberImage{
+  padding-bottom: 10px;
+}
+.socialImages{
+  width: 50px;
+}
+#ContactSection{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#ContactButtonContainer{
+  margin-top: 10px;
+}
